@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3C388C3C-2FD7-4802-857F-DB832D6E0148"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C9AD9B8-1EA2-43B7-8600-61229F6203F6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Starscream/Sources/Engine/NativeEngine.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "doRead()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1209109-5C69-4991-8D86-F59BB07DD241"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Starscream/Sources/Engine/WSEngine.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "connectionChanged(state:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A4C19A4-D7DC-4047-9BB8-93F808E740F9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Starscream/Sources/Framer/Framer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "add(data:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5E8AF49-5072-4D8D-88AD-88D0C702972C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Starscream/Sources/Engine/WSEngine.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "frameProcessed(event:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F5E8AF49-5072-4D8D-88AD-88D0C702972C - ee15d9c62c8dedf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Starscream.WSEngine.frameProcessed(event: Starscream.FrameEvent) -&gt; ()"
+                  moduleName = "Starscream"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cjlsire/Documents/iOS/Test/Socket/Pods/Starscream/Sources/Engine/WSEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "F5E8AF49-5072-4D8D-88AD-88D0C702972C - ee15d9c62c8dedf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Starscream.WSEngine.frameProcessed(event: Starscream.FrameEvent) -&gt; ()"
+                  moduleName = "Starscream"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cjlsire/Documents/iOS/Test/Socket/Pods/Starscream/Sources/Engine/WSEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "157">
+               </Location>
+               <Location
+                  uuid = "F5E8AF49-5072-4D8D-88AD-88D0C702972C - ee15d9c62c8dedf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Starscream.WSEngine.frameProcessed(event: Starscream.FrameEvent) -&gt; ()"
+                  moduleName = "Starscream"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cjlsire/Documents/iOS/Test/Socket/Pods/Starscream/Sources/Engine/WSEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "176"
+                  endingLineNumber = "176"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81F524AA-A870-49C9-B0F4-C8DAFD7D3608"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Starscream/Sources/Framer/FrameCollector.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "add(frame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C1D18EB0-7636-4D93-8696-23C8F87AFA51"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/Starscream/Sources/Engine/WSEngine.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "didForm(event:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C1D18EB0-7636-4D93-8696-23C8F87AFA51 - 74d1b79f6e794fef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Starscream.WSEngine.didForm(event: Starscream.FrameCollector.Event) -&gt; ()"
+                  moduleName = "Starscream"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cjlsire/Documents/iOS/Test/Socket/Pods/Starscream/Sources/Engine/WSEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "194">
+               </Location>
+               <Location
+                  uuid = "C1D18EB0-7636-4D93-8696-23C8F87AFA51 - 74d1b79f6e794fef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Starscream.WSEngine.didForm(event: Starscream.FrameCollector.Event) -&gt; ()"
+                  moduleName = "Starscream"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cjlsire/Documents/iOS/Test/Socket/Pods/Starscream/Sources/Engine/WSEngine.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "191"
+                  endingLineNumber = "191"
+                  offsetFromSymbolStart = "408">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
